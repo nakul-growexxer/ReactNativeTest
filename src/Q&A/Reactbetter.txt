@@ -1,0 +1,10 @@
+React Native creates applications using JavaScript for both iOS and Android. 
+It does this by rendering native APs.
+using React Native is that when you build an application with React Native, 
+it renders “native” mobile UI (as opposed to web views),
+so your app will run smoother and better.
+React Native also has useful features which make it a learner-friendly
+and developer-friendly framework.
+It’s rare these days for a developer to create an app for an Android phone 
+but not for an iPhone, or for an iPhone and not an Android. 
+Thus ReactNative is better then others.

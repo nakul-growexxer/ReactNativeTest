@@ -1,0 +1,9 @@
+A component’s lifecycle can be divided into 4 parts:
+Mounting —  an instance of a component is being created and inserted into the DOM.
+            It is called when an instance of a component is being created and inserted into the DOM.
+Updating — when the React component is born in the browser and grows by receiving new updates.
+            It is called when components are re-rendered from the DOM.
+Unmounting — the component is not needed and gets unmounted.
+            This method is called when a component is removed from the DOM
+Error handling — called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.
+            These methods are called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.
